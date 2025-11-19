@@ -1,0 +1,16 @@
+# Temporary files
+/tmp/ctf_*
+/tmp/secret_*
+/tmp/cleanup_*
+/tmp/*.py
+/tmp/*.log
+
+# Generated challenges
+/opt/challenge/
+/dev/shm/.secrets/
+
+# User data
+*.bin
+*.txt
+*.log
+ctf_huge_log.txt
