@@ -349,6 +349,7 @@ Special thanks to:
 ## 📧 Contact & Support
 
 **Author:** Sermikro CTF 
+
 **Email:** saidakbarxonmaqsudxonov4@gmail.com
   
 **Repository:** [github.com/sermikr0/Linux-CTFs](https://github.com/sermikr0/Linux-CTFs)
